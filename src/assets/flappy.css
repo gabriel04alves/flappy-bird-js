@@ -20,9 +20,8 @@
 
 .passaro {
     position: absolute;
-    width: 60px;
+    width: 45px;
     left: calc(50% - 30px);
-    bottom: 50%;
 }
 
 .par-de-barreiras {
@@ -49,7 +48,7 @@
 
 .barreira .corpo {
     height: 150px;
-    width: 110px;
+    width: 100px;
     background:  linear-gradient(90deg, #639301, #A5E82E);
     border-left: 2px solid #000;
     border-right: 2px solid #000;
