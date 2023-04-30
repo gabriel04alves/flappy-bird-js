@@ -61,4 +61,5 @@
     right: 10px;
     font-family: 'Press Start 2P', sans-serif, Arial, Helvetica, sans-serif;
     font-size: 40px;
+    z-index: 100;
 }
