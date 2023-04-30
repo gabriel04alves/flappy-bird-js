@@ -37,19 +37,19 @@ body {
 }
 
 .footer {
-    border-top: 0.33em solid;
+    border-top: 0.25em solid;
     border-image: linear-gradient(60deg, #8a2be2, #52b0cf) 1 1;
     color: #F7F7F7; 
     position: fixed; 
     bottom: 0; 
     height: 8%;
     width: 100%; 
-    background-color: #114b5f;
+    background-color: #002F40;
 }
 
 .textFooter {
-    font-family: 'Inter', sans-serif;
-    font-size: small;
+    font-family: 'VT323', sans-serif, 'Inter', sans-serif;
+    font-size: medium;
     text-decoration: none;
     color: #F7F7F7;
     font-weight: 300;
